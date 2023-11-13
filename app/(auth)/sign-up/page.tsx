@@ -1,11 +1,11 @@
 import React from "react";
 
-const Page = () => {
+const SignUp = () => {
 	return (
 		<main className="flex justify-center items-center p-8 flex-col">
-			<h1>About</h1>
+			<h1>Register</h1>
 		</main>
 	);
 };
 
-export default Page;
+export default SignUp;
